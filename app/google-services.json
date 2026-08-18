@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442897499532",
+    "project_id": "com-example-aguas-457c8",
+    "storage_bucket": "com-example-aguas-457c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442897499532:android:613bc3bfbbb70ff6c4c2a9",
+        "android_client_info": {
+          "package_name": "com.example.aguas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJd9ywfet5ejAXy5SaJSV4h6QdcBcs4C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
